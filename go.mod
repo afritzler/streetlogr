@@ -4,7 +4,7 @@ go 1.21.2
 
 require (
 	github.com/go-logr/logr v1.3.0
-	github.com/go-logr/zapr v1.2.4
+	github.com/go-logr/zapr v1.3.0
 	go.uber.org/zap v1.26.0
 )
 
